@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm passionate about building robust embedded systems that
 
 ### 🔬 Currently Working On
 - **Wireless EV Charging Systems** - Developing alignment algorithms and safety systems for inductive charging infrastructure
-- **Open Source Embedded Libraries** - Contributing reusable components for the embedded community
+- **RainGauge Weather Station** - ESP32-based IoT system for precision rainfall measurement and wireless data transmission
 - **AI-Powered Health Monitoring** - Advancing contactless biometric sensing technology
 
 ### 🏆 Notable Achievement
