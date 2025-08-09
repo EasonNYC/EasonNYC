@@ -126,7 +126,6 @@ Low-level ARM Cortex-M4 device driver with interrupt-driven I2C communication
 ## 🌐 Connect With Me
 
 [![Resume](https://img.shields.io/badge/Resume-View_Online-green?style=flat&logo=document)](https://easonnyc.github.io/portfolio/resume.html)
-[![Portfolio](https://img.shields.io/badge/Portfolio-EasonRobotics.com-blue?style=flat&logo=web)](http://www.easonrobotics.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-easonsmith-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/easonsmith)
 [![Email](https://img.shields.io/badge/Email-davideasonsmith@gmail.com-red?style=flat&logo=gmail)](mailto:davideasonsmith@gmail.com)
 
