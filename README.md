@@ -117,7 +117,7 @@ Low-level ARM Cortex-M4 device driver with interrupt-driven I2C communication
 
 - 🎬 **[NASA TV Interview](https://www.youtube.com/embed/eIb3ltBdFcM?si=QFBy7Br5mgiclaKT&start=13):** Featured live on NASA EDGE during robotics competition
 - 🏆 **[NYU Website Article](https://engineering.nyu.edu/news/sophomores-take-upper-classes-nasa-lunar-robot-competition):** Led sophomore team competing against graduate students
-- 🔧 **NYU Newspaper Article:** From hobby electronics to professional prototypes  
+- 🔧 **[NYU Newspaper Article](https://easonnyc.github.io/portfolio/nyu_news.html):** This was a print article on our team preparing for NASA.  
 
 ---
 
