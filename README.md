@@ -24,6 +24,7 @@ Welcome to my GitHub! I'm passionate about building robust embedded systems that
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ### **Real-Time Embedded Systems**
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0B5345?style=flat)
