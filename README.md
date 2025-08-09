@@ -57,7 +57,7 @@ Welcome to my GitHub! I'm passionate about building robust embedded systems that
 - Architected BLE/WiFi pairing flows and implemented computer vision features
 - Developed in multithreaded Yocto Linux environment with AWS IoT integration
 
-### **🛡️ Persistent Systems (2016)** - Defense Technology
+### **🛡️ Persistent Systems (2016)** - Defense Radio Technology
 - Embedded systems intern working on military/civilian radio platforms
 - Ported 40,000+ lines of legacy 8051 code to 32-bit ARM architecture
 - Performed board bring-up and hardware validation for audio/video peripherals
