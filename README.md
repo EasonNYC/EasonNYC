@@ -2,6 +2,8 @@
 
 ## 🚀 Senior Embedded Software Engineer | Hardware-Software Innovator | Patent Co-Inventor
 
+[![Resume](https://img.shields.io/badge/📄_Resume-View_Online-success?style=for-the-badge&logo=document)](https://easonnyc.github.io/portfolio/resume.html)
+
 Welcome to my GitHub! I'm passionate about building robust embedded systems that bridge the physical and digital worlds. With 9+ years of experience, I specialize in developing firmware for IoT devices, automotive systems, and health technology platforms.
 
 ### 🔬 Currently Working On
@@ -115,6 +117,7 @@ Low-level ARM Cortex-M4 device driver with interrupt-driven I2C communication
 
 ## 🌐 Connect With Me
 
+[![Resume](https://img.shields.io/badge/Resume-View_Online-green?style=flat&logo=document)](https://easonnyc.github.io/portfolio/resume.html)
 [![Portfolio](https://img.shields.io/badge/Portfolio-EasonRobotics.com-blue?style=flat&logo=web)](http://www.easonrobotics.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-easonsmith-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/easonsmith)
 [![Email](https://img.shields.io/badge/Email-davideasonsmith@gmail.com-red?style=flat&logo=gmail)](mailto:davideasonsmith@gmail.com)
