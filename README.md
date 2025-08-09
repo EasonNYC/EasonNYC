@@ -56,18 +56,18 @@ Welcome to my GitHub! I'm passionate about building robust embedded systems that
 
 ## 🚗 Professional Experience Highlights
 
-### **🔋 InductEV (2023-2025)** - Wireless EV Charging
+### **🔋 [InductEV](https://www.inductev.com/) (2023-2025)** - Wireless EV Charging
 - Developed firmware for wireless charging systems across ARM microcontrollers and embedded Linux platforms
 - Implemented critical safety algorithms for vehicle alignment and foreign object detection
 - Debugged complex cellular modem connectivity using low-level AT commands
 
-### **👶 Miku (2017-2023)** - AI Health Tech Startup  
+### **👶 [Miku](https://mikucare.com/) (2017-2023)** - AI Health Tech Startup  
 - Core team member delivering IoT baby monitor with radar-based breathing detection
 - **Co-invented patent-pending AI illness detection system**
 - Architected BLE/WiFi pairing flows and implemented computer vision features
 - Developed in multithreaded Yocto Linux environment with AWS IoT integration
 
-### **🛡️ Persistent Systems (2016)** - Defense Radio Technology
+### **🛡️ [Persistent Systems](https://persistentsystems.com/) (2016)** - Defense Radio Technology
 - Embedded systems intern working on military/civilian radio platforms
 - Ported 40,000+ lines of legacy 8051 code to 32-bit ARM architecture
 - Performed board bring-up and hardware validation for audio/video peripherals
