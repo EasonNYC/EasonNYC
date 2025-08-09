@@ -19,30 +19,38 @@ Welcome to my GitHub! I'm passionate about building robust embedded systems that
 
 ## 🛠️ Tech Stack & Expertise
 
-### **Embedded Systems**
+### **Programming Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logo=assemblyscript&logoColor=white)
 
-### **Real-Time Systems**
+### **Real-Time Embedded Systems**
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0B5345?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Yocto](https://img.shields.io/badge/Yocto-6C6C6C?style=flat)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![NXP](https://img.shields.io/badge/NXP-0066CC?style=flat&logo=nxp&logoColor=white)
 
 ### **Communication Protocols**
+![UART](https://img.shields.io/badge/UART-8A2BE2?style=flat)
 ![I2C](https://img.shields.io/badge/I2C-FF6B35?style=flat)
 ![SPI](https://img.shields.io/badge/SPI-4B8BBE?style=flat)
 ![CAN](https://img.shields.io/badge/CAN_Bus-1F4E79?style=flat)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat&logo=bluetooth&logoColor=white)
 ![WiFi](https://img.shields.io/badge/WiFi-00A1C9?style=flat)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-006400?style=flat)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![AWS IoT](https://img.shields.io/badge/AWS_IoT-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat&logo=google&logoColor=white)
+![STM32Cube](https://img.shields.io/badge/STM32Cube-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 
 ---
 
