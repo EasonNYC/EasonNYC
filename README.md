@@ -14,6 +14,7 @@ Welcome to my GitHub! I'm passionate about building robust embedded systems that
 ### 🏆 Notable Achievement
 **🎯 Patent Co-Inventor:** [US20240206745A1](https://patents.google.com/patent/US20240206745A1/en) - "System and Method for Monitoring a Person for Signs of Sickness"
 *Breakthrough contactless health monitoring combining radar sensing, computer vision, and machine learning*
+[📖 Read more details about my invention](https://easonnyc.github.io/portfolio/patent.html)
 
 ---
 
