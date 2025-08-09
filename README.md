@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm Eason Smith! 👋
+# Hi there, I'm Eason Smith! 👋 
 
 ## 🚀 Senior Embedded Software Engineer | Hardware-Software Innovator | Patent Co-Inventor
 
