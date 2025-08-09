@@ -102,12 +102,31 @@ Low-level ARM Cortex-M4 device driver with interrupt-driven I2C communication
 ## 🎓 Education & Leadership
 
 **🏫 New York University** - B.S. Electrical & Computer Engineering (2017)  
-*Focus: Robotics, Real-Time Embedded Systems, Artificial Intelligence*
+*Focus: Robotics, Real-Time Embedded Systems, Artificial Intelligence* 
+
+*[Verify Here](https://www.nyu.edu/registrar/forms-procedures/electronic-diploma-validation.html) - Code: 1702-F99A-D9H9, Name: Da*
 
 **👥 Leadership Roles:**
 - NASA Robotics Competition Team Captain
 - IEEE Student Member
 - PolyBots Robotics Club
+
+---
+
+## 💡 Media and Press
+
+- 🎬 **[NASA TV Interview](https://www.youtube.com/embed/eIb3ltBdFcM?si=QFBy7Br5mgiclaKT&start=13):** Featured live on NASA EDGE during robotics competition
+- 🏆 **[NYU Website Article](https://engineering.nyu.edu/news/sophomores-take-upper-classes-nasa-lunar-robot-competition):** Led sophomore team competing against graduate students
+- 🔧 **NYU Newspaper Article:** From hobby electronics to professional prototypes  
+
+---
+
+## 🌐 Connect With Me
+
+[![Resume](https://img.shields.io/badge/Resume-View_Online-green?style=flat&logo=document)](https://easonnyc.github.io/portfolio/resume.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-easonsmith-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/easonsmith)
+[![Email](https://img.shields.io/badge/Email-davideasonsmith@gmail.com-red?style=flat&logo=gmail)](mailto:davideasonsmith@gmail.com)
+
 
 ---
 
@@ -120,24 +139,6 @@ Low-level ARM Cortex-M4 device driver with interrupt-driven I2C communication
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EasonNYC&layout=compact&theme=dark)
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
-[![Resume](https://img.shields.io/badge/Resume-View_Online-green?style=flat&logo=document)](https://easonnyc.github.io/portfolio/resume.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-easonsmith-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/easonsmith)
-[![Email](https://img.shields.io/badge/Email-davideasonsmith@gmail.com-red?style=flat&logo=gmail)](mailto:davideasonsmith@gmail.com)
-
----
-
-## 💡 Fun Facts
-
-- 🎬 **NASA TV Interview:** Featured live on NASA EDGE during robotics competition
-- 🏆 **Team Leadership:** Led sophomore team competing against graduate students
-- 🔧 **16+ Years Soldering:** From hobby electronics to professional prototypes  
-- 🌟 **Patent Holder:** Turning embedded expertise into intellectual property
-- 🚀 **Space Projects:** Contributed to satellite mission and NASA competitions
 
 ---
 
