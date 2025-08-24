@@ -92,7 +92,7 @@ Python-based AI engine controlling a 5-DOF robotic manipulator to play board gam
 Comprehensive ESP32-based weather station with precision rainfall measurement and wireless data transmission
 - **Tech:** ESP32, MQTT, DS18B20/BMP280 sensors, OTA updates, Deep Sleep
 - **Features:** Interrupt-driven rain detection, battery monitoring, modular design
-- **Innovation:** Advanced power management with configurable sleep intervals
+- **Analytics:** Full docker-based IoT backend ESP32 → MQTT → Telegraf → InfluxDB → Grafana
 
 ### 📊 [BMP085 Pressure Sensor Driver](https://github.com/EasonNYC/BMP085)
 Low-level ARM Cortex-M4 device driver with interrupt-driven I2C communication
@@ -144,4 +144,5 @@ Low-level ARM Cortex-M4 device driver with interrupt-driven I2C communication
 
 ---
 
-*"At the intersection of hardware and software, innovation happens." - Building embedded systems that make a difference*
+*"Imagination is more important than knowledge. Knowledge is limited. Imagination 
+  circles the world." - Albert Einstein*
