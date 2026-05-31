@@ -1,13 +1,13 @@
 # Hi there, I'm Eason Smith! 👋
 
-## 🚀 Senior Embedded Software Engineer | Robotics & Sensor Systems | Patent Co-Inventor
+## 🚀 Embedded Tech Lead | Robotics & Sensor Systems | Patent Holder
 
 [![Resume](https://img.shields.io/badge/%F0%9F%93%84_Resume-View_Online-success?style=for-the-badge&logo=document)](https://easonnyc.github.io/portfolio/resume.html)
 
-Welcome to my GitHub! I'm passionate about building robust embedded systems that bridge the physical and digital worlds. With 9+ years of experience, I specialize in developing firmware for robotics, IoT devices, automotive systems, and health technology platforms.
+Welcome to my GitHub! I'm passionate about building robust embedded systems that bridge the physical and digital worlds. With 10 years of experience, I specialize in developing firmware for robotics, IoT devices, automotive systems, and health technology platforms.
 
 ### 🔬 Currently Working On
-* **Robotic Sensor Platforms @ [Treeswift](https://www.treeswift.com/)** - Owning the full embedded software stack for backpack-mounted field robotics platforms integrating LiDAR, GPS/IMU, and camera sensors using ROS2 on embedded Linux
+* **Robotic Sensor Platforms @ [Treeswift](https://www.treeswift.com/)** - Robotic Sensor Platforms @ Treeswift - Technical lead for the embedded software team; own the full embedded software stack for backpack-mounted field robotics platforms integrating LiDAR, GPS/IMU, and camera sensors using ROS2 on embedded Linux
 * **ROS1 → ROS2 Migration** - Led complete migration to ROS2 Jazzy, porting 20+ driver nodes, PyQt application layer, state machine, and diagnostic infrastructure
 * **ARM64 Platform Bring-Up** - Driving next-gen hardware bring-up: kernel configuration, thermal profiling, GPIO subsystem migration, and automated image builds
 * **RainGauge Weather Station** - ESP32-based IoT system for precision rainfall measurement and wireless data transmission
@@ -73,6 +73,9 @@ Welcome to my GitHub! I'm passionate about building robust embedded systems that
 * Led complete ROS1 → ROS2 Jazzy migration, porting 20+ driver nodes and diagnostic infrastructure
 * Engineered multithreaded Ouster LiDAR driver with dedicated UDP receiver, packet processor, and async writer threads — eliminating packet drops during high-rate 3D capture
 * Drove next-gen ARM64 platform bring-up: kernel configuration, thermal profiling, GPIO subsystem migration, and automated image builds
+* Designed a Docker-based A/B OTA field update system (MBR→GPT, dual image slots, manifest-driven seeding) enabling rollback-capable updates via SD card without network connectivity
+* Built real-time SBG INS Built-In Test monitoring that catches accelerometer/magnetometer faults before bad recordings reach the cloud pipeline
+* Shipped 6 production releases across 2 hardware platforms for enterprise fleet customers
 
 ### **🔋 [InductEV](https://www.inductev.com/) (2023-2025)** - Wireless EV Charging
 * Developed firmware for wireless charging systems across ARM microcontrollers and embedded Linux platforms
